@@ -1,0 +1,66 @@
+{
+  "books": [
+    {
+      "kind": "books#volume",
+      "id": "VZMAAAAAYAAJ",
+      "etag": "s2ffLh//LMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VZMAAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Flower Garden",
+        "subtitle": "With an Essay on the Poetry of Gardening",
+        "publishedDate": "1852",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044027076553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VZMAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VZMAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VZMAAAAAYAAJ&printsec=frontcover&dq=flower&hl=&as_brr=7&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VZMAAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VZMAAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BG",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VZMAAAAAYAAJ&rdid=book-VZMAAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BG",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Flower_Garden.epub?id=VZMAAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Flower_Garden.pdf?id=VZMAAAAAYAAJ&hl=&output=pdf&sig=ACfU3U13CJhaxIZgGCE5vTvH_KX2Kwuleg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VZMAAAAAYAAJ&hl=&as_brr=7&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
